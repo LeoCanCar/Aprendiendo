@@ -1,2 +1,2 @@
 # Aprendiendo
-Proyectos personal en mi aprendizaje
+Proyectos personales en mi aprendizaje
